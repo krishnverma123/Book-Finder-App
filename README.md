@@ -29,10 +29,12 @@ This app is fully responsive and provides a smooth user experience with features
 ---
 
 
-## How to Run
-1. Clone the repository:
-```bash
-git clone <your-repo-url>
+## Code Repository
+[Click here to view the code](https://github.com/krishnverma123/Book-Finder-App)
+
+
+## Live Application
+[Click here to view the live app](https://codesandbox.io/p/github/krishnverma123/Book-Finder-App/draft/elastic-roentgen)
 
 ## Install dependencies:
 npm install
